@@ -4,7 +4,15 @@
 
 Tests files should live under `tests` folder
 
-## Run tests
+## Installation
+
+`npm install nightwatch`
+
+`npm install chromedriver`
+
+Read more <a href="https://nightwatchjs.org/gettingstarted/installation/">eere</a>
+
+## Run tests 
 
 `npx nightwatch`
 
