@@ -1,4 +1,6 @@
-# automation-bestbuy
+# automation test bestbuy
+
+Example of an automation test using nightwatch
 
 ## Test files
 
